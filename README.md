@@ -22,3 +22,5 @@ Admin Use Cases
 - Add Vaccination centres
 - Get dosage details (group by centres)
 - Remove vaccination centres
+
+This application was mainly built on sqlite database with flask as a Back-end
